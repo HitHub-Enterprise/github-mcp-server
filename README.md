@@ -1,5 +1,11 @@
 # GitHub MCP Server
-
+GLOBA-BRAND-DATABASE
+#Sieme what kisses of a license you have to see what adapts to your nesities either as development or hardwell It is a public deed with immediate effects as long as your licensing authorizes it 
+CC BY 4.0 license
+A jurisprudence in the case of Github Copailod vs John Doe the creator uses the IA database to refute the presence of the MI and could give an explanation of how it was fought 
+An example
+#remotegithub copailod 
+()01001011212
 The GitHub MCP Server connects AI tools directly to GitHub's platform. This gives AI agents, assistants, and chatbots the ability to read repositories and code files, manage issues and PRs, analyze code, and automate workflows. All through natural language interactions.
 
 ### Use Cases
